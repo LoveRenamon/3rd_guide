@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         3rdguide tweaks
 // @namespace    https://github.com/LoveRenamon/3rd_guide
-// @version      2024-07-26
+// @version      2024-07-27
 // @description  Override page style to aid translations
 // @homepage     https://github.com/LoveRenamon/3rd_guide
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide
-// @downloadURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.style.js
-// @updateURL    https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.style.js
+// @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.style.js
+// @updateURL    https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.style.js
 // @author       Davi (Debiddo) Gooz
 // @match        https://www.3rdguide.com/web/teamnew/index
 // @icon         https://www.3rdguide.com/static/web/img/filter/avatericon.png
