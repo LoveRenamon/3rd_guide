@@ -368,6 +368,8 @@
 
       松雀: "Songque",
       "瞒天乐游·曙影": "Jovial Deception: Shadowdimmer",
+
+      瑟拉珮姆: "Serapeum",      
    };
 
    const translateElement = function (tls, el) {
