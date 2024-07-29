@@ -26,6 +26,7 @@ function addGlobalStyle(css) {
 
 // Floating button
 addGlobalStyle('.sp-btns { scale: .83 ; top: 83% !important; right: 1% !important; }');
+//addGlobalStyle('.sp-btns { visibility: hidden !important; }');
 
 // General Sizes
 addGlobalStyle('.table-search .filter-item .select-item { min-width: 190px !important ; margin-right: 8px !important ; }');
