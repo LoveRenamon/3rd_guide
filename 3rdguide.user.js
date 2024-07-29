@@ -2,10 +2,10 @@
 // @name         3rdguide TL and utils
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple EN translation of valks and bosses
-// @version      1.0.10
-// @homepage     https://github.com/PaeP3nguin/honkai-guide/blob/master/src/assets/3rdguide.user.js
-// @homepageURL  https://github.com/PaeP3nguin/honkai-guide/blob/master/src/assets/3rdguide.user.js
-// @downloadURL  https://github.com/PaeP3nguin/honkai-guide/raw/master/src/assets/3rdguide.user.js
+// @version      1.0.11
+// @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
+// @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
+// @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/src/assets/3rdguide.user.js
 // @updateURL    https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
 // @author       zklm, PaeP3nguin, Davi (Debiddo) Gooz
 // @icon         https://www.3rdguide.com/static/web/img/filter/avatericon.png
