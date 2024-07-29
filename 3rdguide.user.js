@@ -134,6 +134,7 @@
       巡航审判团: "Cruising Tribunal",
       "飞鱼：游弋集群": "Flying Fish: Patrol Force",
       "「业魔」凯文": "Kevin Diabolic",
+      瓦拉哈: "Varaha", // QUA ver.: Ganesha
 
       // === Superstring abyss translations ===
       // Abyss ranks
@@ -237,6 +238,7 @@
       "女武神·誓约": "Valkyrie Pledge",
       朔夜观星: "Starlit Astrologos",
       "月下誓约·予爱以心": "Lunar Vow: Crimson Love",
+      天命难逃: "Inescapable Destiny", // New QUA Teriri, TeriDream, Terimimimi, not oficial name
 
       琪亚娜: "Kiana Kaslana",
       终焉之律者: "Herrshcer of Finality",
