@@ -24,6 +24,20 @@ function addGlobalStyle(css) {
     head.appendChild(style);
 }
 
+let timg = {
+    'https://3rdguide.com/static/web/img/clear-ico.png': 'https://github.com/LoveRenamon/3rd_guide/raw/master/img/clear-ico.png',
+    'https://3rdguide.com/static/web/img/filter/help.png': 'https://github.com/LoveRenamon/3rd_guide/raw/master/img/help.png',
+    'https://3rdguide.com/static/web/img/filter/mine.png': 'https://github.com/LoveRenamon/3rd_guide/raw/master/img/mine.png',
+};
+
+for (let image of document.getElementsByTagName('img')) {
+    for (let query in timg) {
+        if (image.src == query) {
+            image.src = timg[query];
+        }
+    }
+}
+
 // Floating button
 addGlobalStyle('.sp-btns { scale: .83 ; top: 83% !important; right: 1% !important; }');
 //addGlobalStyle('.sp-btns { visibility: hidden !important; }');
