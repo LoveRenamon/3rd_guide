@@ -169,6 +169,7 @@
       闪耀: "Stellar", // enabled Astral Ring
       黯灭: "Starless", // disabled Astral Ring
       幻灭: "Delusion",
+      共鸣: "Resonance",
 
       // Abyss stages
       "区域:": "Stage",
@@ -238,7 +239,6 @@
       "女武神·誓约": "Valkyrie Pledge",
       朔夜观星: "Starlit Astrologos",
       "月下誓约·予爱以心": "Lunar Vow: Crimson Love",
-      天命难逃: "Inescapable Destiny", // New QUA Teriri, TeriDream, Terimimimi, not oficial name
 
       琪亚娜: "Kiana Kaslana",
       终焉之律者: "Herrshcer of Finality",
@@ -369,7 +369,10 @@
       松雀: "Songque",
       "瞒天乐游·曙影": "Jovial Deception: Shadowdimmer",
 
-      瑟拉珮姆: "Serapeum",      
+      瑟拉珮姆: "Serapeum",
+
+      "德丽莎（链刃）": "Theresa Apocalypse (Chain Blades)",
+      天命难逃: "Inescapable Destiny", // New QUA Teriri, TeriDream, Terimimimi, not oficial name
    };
 
    const translateElement = function (tls, el) {
