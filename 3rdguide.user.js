@@ -2,18 +2,14 @@
 // @name         3rdguide TL and utils
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple EN translation of valks and bosses
-// @version      1.0.11
+// @version      1.0.12
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
-// @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/src/assets/3rdguide.user.js
+// @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
 // @updateURL    https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
 // @author       zklm, PaeP3nguin, Davi (Debiddo) Gooz
 // @icon         https://www.3rdguide.com/static/web/img/filter/avatericon.png
-// @match        https://www.3rdguide.com/web/teamnew/detail
-// @match        http://3rdguide.com/web/teamnew/index
-// @match        http://www.3rdguide.com/web/teamnew/index
-// @match        https://3rdguide.com/web/teamnew/index
-// @match        https://www.3rdguide.com/web/teamnew/index
+// @match        *3rdguide.com/web/teamnew/index
 // @grant        none
 // ==/UserScript==
 
@@ -372,7 +368,7 @@
       瑟拉珮姆: "Serapeum",
 
       "德丽莎（链刃）": "Theresa Apocalypse (Chain Blades)",
-      天命难逃: "Inescapable Destiny", // New QUA Teriri, TeriDream, Terimimimi, not oficial name
+      天命难逃: "Schicksal's Imperative", // New QUA Teriri, TeriDream/Terimimimi/Eepy Teri
    };
 
    const translateElement = function (tls, el) {
