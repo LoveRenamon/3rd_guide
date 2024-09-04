@@ -2,7 +2,7 @@
 // @name         3rdguide TL and utils
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple EN translation of valks and bosses
-// @version      1.0.12
+// @version      1.0.13
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -10,6 +10,7 @@
 // @author       zklm, PaeP3nguin, Davi (Debiddo) Gooz
 // @icon         https://www.3rdguide.com/static/web/img/filter/avatericon.png
 // @match        *3rdguide.com/web/teamnew/index
+// @match        https://3rdguide.com/web/teamnew/index
 // @grant        none
 // ==/UserScript==
 
@@ -130,7 +131,7 @@
       巡航审判团: "Cruising Tribunal",
       "飞鱼：游弋集群": "Flying Fish: Patrol Force",
       "「业魔」凯文": "Kevin Diabolic",
-      瓦拉哈: "Varaha", // QUA ver.: Ganesha
+      瓦拉哈: "Valrahal", // QUA ver.: Ganesha, earlier: Varaha
 
       // === Superstring abyss translations ===
       // Abyss ranks
@@ -368,7 +369,7 @@
       瑟拉珮姆: "Serapeum",
 
       "德丽莎（链刃）": "Theresa Apocalypse (Chain Blades)",
-      天命难逃: "Schicksal's Imperative", // New QUA Teriri, TeriDream/Terimimimi/Eepy Teri
+      天命难逃: "Schicksal's Imperative",
    };
 
    const translateElement = function (tls, el) {
@@ -386,8 +387,8 @@
       });
 
       // Fix styling. Have to do this on click since it can get reset.
-      $(".table-team-box .table-search").height(600);
-      $(".table-search .goodwar .content").height(500);
+      //$(".table-team-box .table-search").height(600);
+      //$(".table-search .goodwar .content").height(500);
    };
 
    // Translate on table click.
