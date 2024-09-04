@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         3rdguide tweaks
+// @name         3rdguide Visual Tweaks
 // @namespace    https://github.com/LoveRenamon/3rd_guide
-// @version      2024-08-14
+// @version      2024-09-04
 // @description  Override page style to aid translations
 // @homepage     https://github.com/LoveRenamon/3rd_guide
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide
