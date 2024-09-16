@@ -2,7 +2,7 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple EN translation of valks and bosses
-// @version      1.0.15
+// @version      1.0.16
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -372,7 +372,7 @@
       天命难逃: "Schicksal's Imperative",
 
       "薇塔": "Vita",
-      "孑遗千星": "Bygone Thousand Stars", // Vita's Battlesuit
+      "孑遗千星": "Lone Planetfarer",
    };
 
    const translateElement = function (tls, el) {
