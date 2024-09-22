@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
-// @description  Simple EN translation of valks and bosses
-// @version      1.0.16
+// @description  Simple valks and bosses EN translations
+// @version      1.0.17
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -132,6 +132,7 @@
       "飞鱼：游弋集群": "Flying Fish: Patrol Force",
       "「业魔」凯文": "Kevin Diabolic",
       瓦拉哈: "Valrahal", // QUA ver.: Ganesha, earlier: Varaha
+      "愿之芽-全知的羽翼": "Omniscience Wings", // Vita Boss, name too big: Sprout of Wishing: Omniscient Wings
 
       // === Superstring abyss translations ===
       // Abyss ranks
@@ -167,6 +168,7 @@
       黯灭: "Starless", // disabled Astral Ring
       幻灭: "Delusion",
       共鸣: "Resonance",
+      星冕: "Corona", // Omniscient Star Astral Ring
 
       // Abyss stages
       "区域:": "Stage",
@@ -179,7 +181,7 @@
       吼姆魔术师: "Homu Magician",
       "虚树神骸-虚无主义II": "Husk: Nihilus (hit count)",
       "神机-海姆达尔": "Heimdall",
-      "娑婆 阿湿波": "Saha Assaka",
+      "娑婆阿湿波": "Saha: Assaka",
       "贝纳勒斯·冰形态": "Bernares (Ice)",
       群怪: "Mobs",
       群聚敌人: "Mobs (kill count)", // Kill count Enemies
@@ -195,6 +197,7 @@
       //"托纳提乌-噬日之影": "Tonatiuh",
       "异种·巡行级崩坏兽": "PSY: Patroller",
       "黑之赐死、白之悬剑": "(Black and White twins)", // "Black Whine of Theramenes, White Sword of Damocles", // too big
+      婆娑阿湿波: "Saha: Assaka", // ???? why inverted first name? used at Stellar Abyss
 
       // === Valkyries ===
       符华: "Fu Hua",
