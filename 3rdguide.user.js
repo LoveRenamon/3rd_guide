@@ -125,7 +125,11 @@
       "陨星-瓜伊马斯": "Meteoroid: Guaymas",
       "异星肃卫-补阙": "Alien Guard - Supplement",
       殉死之兽: "Beast of Sacrifice",
+      温蒂: "Wendy",
       渡鸦: "Raven",
+      羽兔: "Hare",
+      理型之种: "Seed of Idea",
+      //"科亚特尔－复生之影": "",
       "陨星-奈埃尔": "Meteoroid: Fusion Epernay", // SD door frame
       "陨星-奈挨尔": "Meteoroid: Fusion Epernay", // SD door frame
       巡航审判团: "Cruising Tribunal",
