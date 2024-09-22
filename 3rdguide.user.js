@@ -130,6 +130,7 @@
       "陨星-奈挨尔": "Meteoroid: Fusion Epernay", // SD door frame
       巡航审判团: "Cruising Tribunal",
       "飞鱼：游弋集群": "Flying Fish: Patrol Force",
+      特拉洛克: "Tlaloc",
       "「业魔」凯文": "Kevin Diabolic",
       "「救世」凯文": "Deliverance Kevin",
       "「示现此世之兽」": "This Worldly Beast",
