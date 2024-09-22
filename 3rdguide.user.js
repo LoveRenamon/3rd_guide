@@ -2,7 +2,7 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple valks and bosses EN translations
-// @version      1.0.17
+// @version      1.0.18
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -132,6 +132,9 @@
       "飞鱼：游弋集群": "Flying Fish: Patrol Force",
       "「业魔」凯文": "Kevin Diabolic",
       瓦拉哈: "Valrahal", // QUA ver.: Ganesha, earlier: Varaha
+      "薇塔-「海的深渊」": "Vita: Sea's Depths",
+      "娑 -「一心三惑」": "Sa: Three Afflictions",
+      "娑 -「成住坏空」": "Sa: Tribulations of Life",
       "愿之芽-全知的羽翼": "Omniscience Wings", // Vita Boss, name too big: Sprout of Wishing: Omniscient Wings
 
       // === Superstring abyss translations ===
@@ -198,6 +201,7 @@
       "异种·巡行级崩坏兽": "PSY: Patroller",
       "黑之赐死、白之悬剑": "(Black and White twins)", // "Black Whine of Theramenes, White Sword of Damocles", // too big
       婆娑阿湿波: "Saha: Assaka", // ???? why inverted first name? used at Stellar Abyss
+      愿之芽: "Sprout of Wishes",
 
       // === Valkyries ===
       符华: "Fu Hua",
