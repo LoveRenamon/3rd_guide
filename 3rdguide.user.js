@@ -2,7 +2,7 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple valks and bosses EN translations
-// @version      1.0.18
+// @version      1.0.19
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -131,6 +131,8 @@
       巡航审判团: "Cruising Tribunal",
       "飞鱼：游弋集群": "Flying Fish: Patrol Force",
       "「业魔」凯文": "Kevin Diabolic",
+      "「救世」凯文": "Deliverance Kevin",
+      "「示现此世之兽」": "This Worldly Beast",
       瓦拉哈: "Valrahal", // QUA ver.: Ganesha, earlier: Varaha
       "薇塔-「海的深渊」": "Vita: Sea's Depths",
       "娑 -「一心三惑」": "Sa: Three Afflictions",
