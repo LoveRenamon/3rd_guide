@@ -2,7 +2,7 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple valks and bosses EN translations
-// @version      1.0.22
+// @version      1.0.23
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -119,6 +119,7 @@
       "逐火十三英桀·梅比乌斯": "Flame-Chaser Mobius",
       "逐火十三英桀 梅比乌斯": "Flame-Chaser Mobius",
       "虚树神骸-神秘主义": "Husk: Mysticism",
+      "虚数神骸·神秘主义": "Husk: Mysticism",
       "虚树神骸-存在主义": "Husk: Existentialism",
       毕舍遮: "Pishacha",
       塔之钳梏: "Wardens of Tower",
@@ -380,7 +381,7 @@
       灯: "Tsavorae \"Lantern\"",
       "破弃孤光·逐影": "Lone Destruction: Shadowchaser",
 
-      松雀: "Songque",
+      松雀: "Maria \"Songque\"",
       "瞒天乐游·曙影": "Jovial Deception: Shadowdimmer",
 
       瑟拉珮姆: "Serapeum",
