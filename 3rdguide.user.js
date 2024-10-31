@@ -2,7 +2,7 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple valks and bosses EN translations
-// @version      1.0.19
+// @version      1.0.21
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -11,6 +11,7 @@
 // @icon         https://www.3rdguide.com/static/web/img/filter/avatericon.png
 // @match        *3rdguide.com/web/teamnew/index
 // @match        https://3rdguide.com/web/teamnew/index
+// @match        https://www.3rdguide.com/web/teamnew/index
 // @grant        none
 // ==/UserScript==
 
@@ -208,7 +209,9 @@
       "异种·巡行级崩坏兽": "PSY: Patroller",
       "黑之赐死、白之悬剑": "(Black and White twins)", // "Black Whine of Theramenes, White Sword of Damocles", // too big
       婆娑阿湿波: "Saha: Assaka", // ???? why inverted first name? used at Stellar Abyss
+      "娑婆 阿湿波": "Saha: Assaka", // why theres so many Assaka variants?
       愿之芽: "Sprout of Wishes",
+      "薇塔-「海的深渊」": "Vita - \"Abyss of the Sea\"", // not official name
 
       // === Valkyries ===
       符华: "Fu Hua",
@@ -385,8 +388,11 @@
       "德丽莎（链刃）": "Theresa Apocalypse (Chain Blades)",
       天命难逃: "Schicksal's Imperative",
 
-      "薇塔": "Vita",
+      薇塔: "Vita",
       "孑遗千星": "Lone Planetfarer",
+
+      花火: "Sparkle",
+      "诡戏千役「友情出演！」": "Trickster Thousand Servants \"Friendship Appearance!\"", // not official name
    };
 
    const translateElement = function (tls, el) {
