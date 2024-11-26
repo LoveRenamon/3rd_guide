@@ -2,7 +2,7 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple valks and bosses EN translations
-// @version      1.0.23
+// @version      1.0.24
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -393,7 +393,7 @@
       "孑遗千星": "Lone Planetfarer",
 
       花火: "Sparkle",
-      "诡戏千役「友情出演！」": "Thousand Masks: Ally Cameo!", // not official name
+      "诡戏千役「友情出演！」": "Thousand-Faced Maestro: Cameo!",
    };
 
    const translateElement = function (tls, el) {
