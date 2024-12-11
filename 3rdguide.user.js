@@ -2,7 +2,7 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple valks and bosses EN translations
-// @version      1.0.25
+// @version      1.0.26
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -90,6 +90,7 @@
       迦尼萨: "Ganesha",
       雷神级崩坏兽: "Storm Templar",
       熔炎帝王: "Flame Emperor",
+      寒冰帝王: "Ice Emperor",
       昆巴卡纳: "Kumbhakarna",
       督军级崩坏兽: "Legatus",
       死亡编织者: "Death Web",
@@ -145,6 +146,7 @@
       "娑 -「一心三惑」": "Sa: Three Afflictions",
       "娑 -「成住坏空」": "Sa: Tribulations of Life",
       "愿之芽-全知的羽翼": "Omniscience Wings", // Vita Boss, name too big: Sprout of Wishing: Omniscient Wings
+      "「戒世遗光」": "Deliverance Kevin", // New Deliverance Kevin, guess name relates to his PE title, maybe "World's Hope" is the proper translation
 
       // === Superstring abyss translations ===
       // Abyss ranks
@@ -181,6 +183,7 @@
       幻灭: "Delusion",
       共鸣: "Resonance",
       星冕: "Corona", // Omniscient Star Astral Ring
+      易位: "Transposition", // Equinox Astral Ring
 
       // Abyss stages
       "区域:": "Stage",
@@ -212,7 +215,7 @@
       婆娑阿湿波: "Saha: Assaka", // ???? why inverted first name? used at Stellar Abyss
       "娑婆 阿湿波": "Saha: Assaka", // why theres so many Assaka variants?
       愿之芽: "Sprout of Wishes",
-      "薇塔-「海的深渊」": "Vita: Deep Sea Abyss", // "Vita: Abyss of the Sea" too long name
+      //"薇塔-「海的深渊」": "Vita: Deep Sea Abyss", // Now uses the short name "Vita: Sea's Depths"
 
       // === Valkyries ===
       符华: "Fu Hua",
@@ -395,7 +398,7 @@
       花火: "Sparkle",
       "诡戏千役「友情出演！」": "Thousand-Faced Maestro: Cameo!",
 
-      //"幽兰黛尔（）": "Bianka Ataegina \"Durandal\" (Spear)", // NOTE: Durandal from part 2 (Weapon: Spear)
+      "幽兰黛尔（梭镖）": "Bianka Ataegina \"Durandal\" (Spear)", // NOTE: Durandal from part 2 (Weapon: Spear)
       天光驰彻: "Skylight Speedpiercer", // Unnoficial name
    };
 
