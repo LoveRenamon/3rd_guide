@@ -2,7 +2,7 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple valks and bosses EN translations
-// @version      1.0.26
+// @version      1.0.27
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -398,8 +398,8 @@
       花火: "Sparkle",
       "诡戏千役「友情出演！」": "Thousand-Faced Maestro: Cameo!",
 
-      "幽兰黛尔（梭镖）": "Bianka Ataegina \"Durandal\" (Spear)", // NOTE: Durandal from part 2 (Weapon: Spear)
-      天光驰彻: "Skylight Speedpiercer", // Unnoficial name
+      "幽兰黛尔（梭镖）": "Bianka Ataegina \"Durandal\" (Spear)",
+      天光驰彻: "Reign Solaris",
    };
 
    const translateElement = function (tls, el) {
