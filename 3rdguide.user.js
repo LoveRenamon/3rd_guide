@@ -2,7 +2,7 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple valks and bosses EN translations
-// @version      1.0.27
+// @version      1.0.28
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -90,7 +90,7 @@
       迦尼萨: "Ganesha",
       雷神级崩坏兽: "Storm Templar",
       熔炎帝王: "Flame Emperor",
-      寒冰帝王: "Ice Emperor",
+      寒冰帝王: "Frost Emperor",
       昆巴卡纳: "Kumbhakarna",
       督军级崩坏兽: "Legatus",
       死亡编织者: "Death Web",
@@ -146,7 +146,7 @@
       "娑 -「一心三惑」": "Sa: Three Afflictions",
       "娑 -「成住坏空」": "Sa: Tribulations of Life",
       "愿之芽-全知的羽翼": "Omniscience Wings", // Vita Boss, name too big: Sprout of Wishing: Omniscient Wings
-      "「戒世遗光」": "Deliverance Kevin", // New Deliverance Kevin, guess name relates to his PE title, maybe "World's Hope" is the proper translation
+      "「戒世遗光」": "Bygone Deliverance", // New Deliverance Kevin boss
 
       // === Superstring abyss translations ===
       // Abyss ranks
@@ -180,10 +180,10 @@
       白刃: "Melee",
       闪耀: "Stellar", // enabled Astral Ring
       黯灭: "Starless", // disabled Astral Ring
-      幻灭: "Delusion",
-      共鸣: "Resonance",
-      星冕: "Corona", // Omniscient Star Astral Ring
-      易位: "Transposition", // Equinox Astral Ring
+      幻灭: "Shadow", // Shadow Star Astral Ring
+      共鸣: "Echoing", // Domain Resonance and World Star Astral Ring
+      星冕: "Stellar Crown", // Omniscient Star and Rite of Oblivion Astral Ring
+      易位: "Flux", // Heavenly Shift and Law of Ascension Astral Ring
 
       // Abyss stages
       "区域:": "Stage",
