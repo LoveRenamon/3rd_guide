@@ -2,7 +2,7 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple valks and bosses EN translations
-// @version      1.0.28
+// @version      1.0.29
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -66,6 +66,7 @@
       奔狼的领主: "Andrius",
       祸斗: "Huodou",
       吼姆王: "Homu King",
+      吼姆表演家: "Homu King (Flux)", // v8.1 Abyss Flux HOMU
       // '卡莲': 'Kallen', // (use valkyrie TL)
       绯狱丸: "Hellmaru",
       海姆达尔: "Aesir Heimdall",
@@ -103,6 +104,7 @@
       陨冰之律者: "Herrscher of Rimestar",
       "虚树神骸-虚无主义": "Husk: Nihilus",
       "支配之律者-乌合之众": "Herrscher of Dominance",
+      "支配之律者 乌合之众": "Herrscher of Dominance", // v8.0 variation
       伪神奥托: "False God Otto",
       "伪神·奥托": "False God Otto",
       "奥托·阿波卡利斯": "Otto Apocalypse",
