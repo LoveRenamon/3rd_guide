@@ -259,6 +259,7 @@
       "月下誓约·予爱以心": "Lunar Vow: Crimson Love",
 
       琪亚娜: "Kiana Kaslana",
+      "咚！炽愿吉星": "Ba-dum! Fiery Wishing Star",
       终焉之律者: "Herrshcer of Finality",
       薪炎之律者: "Herrscher of Flamescion",
       天穹游侠: "Void Drifter",
