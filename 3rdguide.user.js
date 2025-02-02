@@ -2,7 +2,7 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple valks and bosses EN translations
-// @version      1.0.29
+// @version      1.0.30
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
@@ -147,6 +147,7 @@
       "薇塔-「海的深渊」": "Vita: Sea's Depths",
       "娑 -「一心三惑」": "Sa: Three Afflictions",
       "娑 -「成住坏空」": "Sa: Tribulations of Life",
+      "娑-「轮转无我」": "Sa: Tribulations of Life", // website has a typo, missing the space
       "愿之芽-全知的羽翼": "Omniscience Wings", // Vita Boss, name too big: Sprout of Wishing: Omniscient Wings
       "「戒世遗光」": "Bygone Deliverance", // New Deliverance Kevin boss
 
@@ -357,7 +358,7 @@
       "爱衣·休伯利安Λ": "Ai·Hyperion Λ",
       时帆旅人: "Chrono Navi",
 
-      苏莎娜: "Susannah",
+      苏莎娜: "Susannah Manatt",
       "女武神·热砂": "Valkyrie Quicksand",
 
       "米丝忒琳·沙尼亚特": "Misteln Schariac",
