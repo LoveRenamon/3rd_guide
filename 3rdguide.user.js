@@ -2,16 +2,14 @@
 // @name         3rdguide Translations
 // @namespace    https://github.com/PaeP3nguin/honkai-guide
 // @description  Simple valks and bosses EN translations
-// @version      1.0.30
+// @version      1.0.32
 // @homepage     https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @homepageURL  https://github.com/LoveRenamon/3rd_guide/blob/master/3rdguide.user.js
 // @downloadURL  https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
 // @updateURL    https://github.com/LoveRenamon/3rd_guide/raw/master/3rdguide.user.js
 // @author       zklm, PaeP3nguin, Davi (Debiddo) Gooz
 // @icon         https://www.3rdguide.com/static/web/img/filter/avatericon.png
-// @match        *3rdguide.com/web/teamnew/index
-// @match        https://3rdguide.com/web/teamnew/index
-// @match        https://www.3rdguide.com/web/teamnew/index
+// @include      /^https?.*3rdguide\.com\/web\/
 // @grant        none
 // ==/UserScript==
 
@@ -150,6 +148,16 @@
       "娑-「轮转无我」": "Sa: Tribulations of Life", // website has a typo, missing the space
       "愿之芽-全知的羽翼": "Omniscience Wings", // Vita Boss, name too big: Sprout of Wishing: Omniscient Wings
       "「戒世遗光」": "Bygone Deliverance", // New Deliverance Kevin boss
+      "「觉」": "\"Perception\"",
+      盔环剑型: "Helmet Ring Sword type",
+      "「灯」": "\"Lantern\"",
+      潜热狂械: "Heatdive Automaton",
+      "「假面愚者」桑博": "\"Masked Fool\" Sampo",
+      "浸影-袖悬灯": "Shadow Drinker - Sleeve-Suspended Lantern",
+      "浸影-浮惑伞": "Shadow Drinker - Umbrella of Illusions",
+      利托斯特: "Litost·Cinders of the Night",
+      "陨星-帕罗斯": "Meteoroid: Paros",
+      "摩录多": "Marut",
 
       // === Superstring abyss translations ===
       // Abyss ranks
@@ -299,6 +307,7 @@
       "脉冲装·绯红": "Crimson Impulse",
       "女武神·强袭": "Valkyrie Bladestrike",
       影舞冲击: "Shadow Dash",
+      "镇×偃月叩晓": "Xentinel × Dawnbearing Crescent",
 
       丽塔: "Rita Rossweisse",
       失落迷迭: "Fallen Rosemary",
@@ -306,6 +315,7 @@
       "猎袭装·影铁": "Phantom Iron",
       黯蔷薇: "Umbral Rose",
       缭乱星棘: "Spina Astera",
+      窈窕谍影: "Miss Espionage",
 
       姬子: "Murata Himeko",
       "真红骑士·月蚀": "Vermilion Knight: Eclipse",
@@ -354,6 +364,7 @@
 
       李素裳: "Li Sushang",
       "玉骑士·月痕": "Jade Knight",
+      "一客逍游": "Casual Stroll: Peregrine Sword",
 
       "爱衣·休伯利安Λ": "Ai·Hyperion Λ",
       时帆旅人: "Chrono Navi",
@@ -375,9 +386,11 @@
 
       "科拉莉·6626·普朗克": "Coralie 6626 Planck",
       "女武神·重机": "Valkyrie Blastmetal",
+      "逆命魔龙·降临！": "Behold! Fate-Defying Dragon",
 
       "埃尔德什·赫丽娅": "Erdős Helia",
       "女武神·巡矢": "Valkyrie Boltstorm",
+      "位面武器·失序时空": "Planar Armament: Warped Spacetime",
 
       希娜狄雅: "Senadina",
       "深空定锚·曙光": "Deepspace Anchor: First Light",
